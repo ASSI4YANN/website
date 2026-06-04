@@ -1,5 +1,5 @@
-## Dans le lab eazytraining
+# Dans le lab eazytraining
 
-# DEploiement de l'application web avec Docker 
+## Deploiement de l'application web avec Docker 
 
-# Automatisation avec GiThub
+## Automatisation avec GiThub
