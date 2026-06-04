@@ -1,1 +1,5 @@
-How to generate and use SSH keypair with github
+## Dans le lab eazytraining
+
+#DEploiement de l'application web avec Docker 
+
+#Automatisation avec GiThub
